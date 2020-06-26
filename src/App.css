@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.webmap {
+  height: 600px;
+  width: 50%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
